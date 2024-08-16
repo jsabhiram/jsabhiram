@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber world
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on security and iot applications
-- 📫 How to reach me -mail me jsabhiramsuresh@gmail.com
+- 📫 How to reach me - jsabhiramsuresh@gmail.com
 - ⚡ Fun fact: Iam just a young boy.
 
 <!---
