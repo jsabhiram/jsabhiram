@@ -1,1 +1,151 @@
-
+1. Smart Home Automation System using Arduino and Python
+2. Real-Time Face Recognition with OpenCV and Python
+3. Inventory Management System using JDBC and SQL
+4. Object Detection in Live Video Feed using OpenCV
+5. Voice-Controlled Robot using Arduino and Python
+6. SQL Query Optimization Tool with JDBC Interface
+7. Weather Monitoring System using Arduino and IoT
+8. Chatbot with Langchain and NLP
+9. Currency Converter with JDBC and SQL
+10. Home Security System with PIR Sensors and Arduino
+11. Vehicle Speed Detector using OpenCV and Python
+12. Database Backup Automation Tool using SQL and Python
+13. Text-to-Speech System using Langchain and Python
+14. Real-Time Hand Gesture Detection using OpenCV
+15. IoT-based Smart Irrigation System using Arduino
+16. Multi-User Chat Application with JDBC and SQL
+17. Emotion Detection from Images using OpenCV and Python
+18. Automated Attendance System with Face Recognition
+19. Traffic Signal Simulation using emu8086 Assembly Language
+20. Web Scraping and Database Storage with Python and SQL
+21. Currency Exchange Rate Tracker with Langchain
+22. Automated Library Management System using JDBC
+23. Smart Waste Management System using Arduino and IoT
+24. Virtual Assistant with Langchain and Python
+25. Barcode Scanner and Inventory System using OpenCV
+26. Hotel Booking System using JDBC and SQL
+27. Smart Energy Meter using Arduino and IoT
+28. OCR (Optical Character Recognition) with OpenCV and Python
+29. Chatbot with Contextual Understanding using Langchain
+30. Embedded System for Room Temperature Control with Arduino
+31. Online Voting System using SQL and JDBC
+32. Real-Time Vehicle Tracking System with Arduino and GPS
+33. Traffic Density Monitoring using OpenCV and Python
+34. Virtual Machine Monitor using emu8086
+35. E-commerce Inventory System with JDBC and SQL
+36. License Plate Recognition using OpenCV
+37. Intelligent Alarm Clock with Langchain and Python
+38. Automated Data Backup Tool with Python and SQL
+39. Gesture-Controlled Device using Arduino
+40. Health Monitoring System using Arduino and IoT
+41. SQL Injection Detection Tool with Python and JDBC
+42. Smart Parking System using Arduino and Python
+43. Face Mask Detection System using OpenCV
+44. Real-Time Language Translation with Langchain
+45. Expense Tracker with JDBC and SQL
+46. Heartbeat Monitoring System using Arduino
+47. AI-Based Image Captioning using OpenCV and Python
+48. Smart Traffic Light System with Arduino and IoT
+49. Online Examination System using JDBC and SQL
+50. File Encryption and Decryption Tool with Python
+51. Decentralized File Sharing System using Torrent Protocol
+52. Torrent Crawler for Finding Popular Files
+53. Dark Web Monitoring and Alert System for Illegal Activities
+54. Secure File Transfer System Using Onion Routing (Tor)
+55. Automated Dark Web Data Scraper
+56. Anonymized Torrent Downloader with VPN and Tor Integration
+57. Torrent Health Checker and Seeder Tracker
+58. Encrypted Peer-to-Peer File Sharing Using Blockchain and Torrent Protocol
+59. Dark Web Search Engine using Python and Scraping Techniques
+60. Anonymous Chat System Over Tor Network
+61. Dark Web Market Monitoring with Price Trend Analysis
+62. Automated Torrent Metadata Extractor and Analyzer
+63. File Distribution System with Torrent and IPFS (InterPlanetary File System)
+64. Real-Time Network Traffic Analysis for Detecting Torrent Usage
+65. Secure Messaging App with Onion Routing (Tor)
+66. Torrent-Based Video Streaming Application
+67. Dark Web Phishing Site Detection and Alert System
+68. Distributed Database System Using BitTorrent and DHT (Distributed Hash Table)
+69. File Integrity Checker for Torrent Files with Blockchain Verification
+70. Dark Web Cryptocurrency Price Tracker
+71. Onion Website Status Checker and Uptime Monitor
+72. Torrent-Based Podcast Sharing Platform
+73. Data Leak Monitoring System on the Dark Web
+74. Anonymous Voting System using Tor Network
+75. Torrent Indexer with File Categorization and Search Engine
+76. Dark Web Intelligence Gathering Tool for Law Enforcement
+77. Distributed Video Hosting Service Using Torrents
+78. Dark Web Scammer Identification System using Data Patterns
+79. Torrent Client with Built-In Malware Detection
+80. Secure Distributed Cloud Storage with Torrent and Encryption
+81. Real-Time Dark Web Content Analyzer Using NLP
+82. Anti-Piracy System for Monitoring Torrent Activity
+83. Decentralized Software Distribution Platform Using Torrents
+84. Dark Web Product Review Aggregator with Sentiment Analysis
+85. Content Delivery Network (CDN) Using Torrent and Blockchain
+86. Dark Web Document Repository with Categorization
+87. Blockchain-Based Torrent Tracker for Legal File Sharing
+88. Dark Web Data Leak Alert System for Personal Information
+89. Torrent-Based Book Sharing Platform with Content Moderation
+90. Web Scraper for Collecting Onion Site Information
+91. Real-Time Dark Web Currency Exchange Rate Tracker
+92. Anonymous Peer-to-Peer File Sharing with Torrent and Tor
+93. Torrent-Based Gaming Distribution Platform
+94. Dark Web Threat Intelligence Dashboard
+95. Legal Torrent Distribution System for Open-Source Software
+96. Onion URL Shortener with Privacy Features
+97. Real-Time Torrent Swarm Analyzer and Visualization Tool
+98. Dark Web User Behavior Analytics Tool
+99. Torrent-Based News Distribution Platform for Censorship Resistance
+100. Secure Dark Web Email Service Over Tor
+101. IoT-Based Smart Door Lock System with Remote Access
+102. Temperature Monitoring System for Servers using IoT Sensors
+103. Smart Home Energy Usage Dashboard with IoT Integration
+104. IoT-Enabled Water Leak Detection and Alert System
+105. Automated Plant Watering System with IoT and Soil Sensors
+106. Home Security Camera with IoT Motion Detection and Alerts
+107. IoT-Connected Smart Mirror with Calendar and Weather Display
+108. Wearable Health Monitoring Device with IoT and Soldered Sensors
+109. Smart Street Light System with IoT for Energy Efficiency
+110. IoT-Based Fleet Tracking and Fuel Monitoring System
+111. IoT-Enabled Air Quality Monitoring System for Indoor Spaces
+112. Wireless IoT Weather Station with Remote Monitoring
+113. IoT-Based Vehicle Anti-Theft System with Real-Time Alerts
+114. Smart Waste Bin Management System using IoT Sensors
+115. IoT-Enabled Inventory Tracking System for Warehouse Management
+116. Remote-Controlled Home Appliance System using IoT and Soldered Components
+117. Smart Doorbell System with IoT and Camera Integration
+118. IoT-Based Elderly Fall Detection and Emergency Alert System
+119. Automated Lighting System for Energy Efficiency using IoT
+120. Soldered Smart Traffic Signal System with IoT Integration
+121. Real-Time Vehicle Diagnostics using IoT and OBD Sensors
+122. IoT-Based Smart Refrigerator with Inventory Tracking
+123. IoT-Powered Smart Thermostat with Remote Control
+124. Smart Classroom Attendance System using IoT and RFID
+125. IoT-Based Warehouse Temperature and Humidity Monitoring System
+126. Smart Factory Automation using IoT and Soldered Components
+127. IoT-Enabled Asset Tracking System for Large Facilities
+128. Smart Parking Management System with IoT Sensors
+129. Home Automation System for Controlling Multiple Devices with IoT
+130. IoT-Connected Pet Feeder with Automated Scheduling
+131. Smart Bike Lock System with IoT and Mobile App Integration
+132. IoT-Based Fire Detection System for Industrial Environments
+133. Soldered IoT Smart Irrigation System with Weather Forecasting
+134. Automated Toll Collection System using IoT and RFID
+135. IoT-Powered Greenhouse Monitoring and Control System
+136. IoT-Enabled Smart Helmet with Safety Features
+137. IoT-Based Noise Monitoring System for Urban Areas
+138. Real-Time Traffic Monitoring System using IoT and Sensors
+139. IoT-Enabled Air Conditioning System for Smart Energy Management
+140. IoT-Connected Smart Door Handle with Soldered Components
+141. Automated Smart Fan System with IoT Temperature Sensors
+142. IoT-Based Smart Pill Dispenser for Medication Management
+143. Smart Electricity Meter with IoT for Real-Time Usage Monitoring
+144. IoT-Enabled Environmental Monitoring System for Agriculture
+145. Remote-Controlled IoT Home Security Drone
+146. IoT-Based Solar Panel Monitoring System for Energy Optimization
+147. Smart Chair with IoT Posture Monitoring and Alerts
+148. IoT-Enabled Smart Coffee Machine with Voice Commands
+149. Industrial Machine Monitoring System with IoT and Soldered Sensors
+150. IoT-Based Real-Time Vehicle Tracking System with GPS Integration
+151.Wireless self triggered heat-generation/explosives
