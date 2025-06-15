@@ -110,7 +110,7 @@ I’m currently working on ECG & IR drone-based detection<br>
 <td width="50%">
 
 ### 🤖 **AI Chat Assistant**
-[![AI Chat](https://github-readme-stats.vercel.app/api/pin/?username=aswinss18&repo=ai-chat-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06d6a0&text_color=e2e8f0)](https://github.com/aswinss18/ai-chat-assistant)
+[![AI Chat](https://github.com/jsabhiram/Emma-js---Discord-BOT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06d6a0&text_color=e2e8f0)](https://github.com/jsabhiram//Emma-js---Discord-BOT)
 
 **Tech Stack:** `React` `Python` `OpenAI` `FastAPI`
 - 🧠 Natural Language Processing
