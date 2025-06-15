@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Abhiram
-- Linked In -https://www.linkedin.com/in/j-s-abhiram-suresh-31657b270/
-- 👀 I’m interested in Cyber world
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on security and iot applications
-- 📫 How to reach me - jsabhiramsuresh@gmail.com
-- ⚡ Fun fact: Iam just a young boy.
+<h1 align="center">Hi 👋, I'm Abhiram</h1>
+<h3 align="center">An enthusiastic AI + IoT engineer</h3>
 
-<!---
-jsabhiram/jsabhiram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **ECG & IR drone-based detection**
+- 🌱 I’m learning **TensorFlow, LabVIEW integration**
+- 💬 Ask me about **Arduino, Python, or Image Processing**
+- 📫 How to reach me: [your email or LinkedIn]
+- ⚡ Fun fact: I can debug your circuit & code at once 😄
+
+<!-- Badges -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhiramsuresh&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramsuresh" />
+</p>
