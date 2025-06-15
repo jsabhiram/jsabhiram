@@ -178,11 +178,10 @@ fun_facts:
 ```
 
 ### 🎨 **My Coding Setup**
-- **OS:** macOS Sonoma
-- **Editor:** VS Code + Vim motions
-- **Theme:** Tokyo Night Storm
-- **Font:** JetBrains Mono Nerd Font
-- **Terminal:** Warp with Starship
+- **OS:** Windows and Linux Combined Workstation| WSL/Virtual Box
+- **Editor:** VS Code + IntelliJ
+- **Theme:** Dark Mode-Space
+- **Terminal:** Regualr
 
 </td>
 </tr>
@@ -203,15 +202,25 @@ fun_facts:
 <a href="mailto:jsabhiramsuresh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
 </a>
-<a href="[https://www.linkedin.com/in/jsabhiram/](https://github.com/jsabhiram)">
+<a href="[https://www.linkedin.com/jsabhiram/](https://github.com/jsabhiram)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1" alt="Spotify Now Playing" width="400" />
+const playlistId = '1cjNvAwnckH1G096jPsrJX';
 
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/1cjNvAwnckH1G096jPsrJX?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
 </div>
 
 <br/>
