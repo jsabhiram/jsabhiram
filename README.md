@@ -73,18 +73,18 @@ I’m currently working on ECG & IR drone-based detection<br>
 ### ⚙️ **Backend & Database**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sql" />
 </p>
 
 ### 🛠️ **Tools & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
   <img src="https://skillicons.dev/icons?i=vscode,postman,jest,webpack,vite," />
 </p>
 
 ### 🎨 **Design & Animation**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 </div>
@@ -135,13 +135,6 @@ https://github.com/jsabhiram//Emma-js---Discord-BOT
 <td width="50%" align="center">
 
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300" alt="Development GIF" />
-
-### 🎯 **2024 Goals Progress**
-![Progress](https://progress-bar.dev/75/?title=AI%20Projects&width=200&color=6366f1)
-![Progress](https://progress-bar.dev/60/?title=Open%20Source&width=200&color=06d6a0)
-![Progress](https://progress-bar.dev/85/?title=Performance&width=200&color=f72585)
-![Progress](https://progress-bar.dev/40/?title=Dev%20Tools&width=200&color=fbbf24)
-
 </td>
 </tr>
 </table>
