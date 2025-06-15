@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi 👋, I'm Abhiram<br>An enthusiastic AI + IoT engineer<br>🔭 I’m currently working on ECG & IR drone-based detection<br>🌱 I’m learning TensorFlow, LabVIEW integration<br>💬 Ask me about Arduino, Python, or Image Processing<br>📫 How to reach me: [your email or LinkedIn]<br>⚡ Fun fact: I can debug your circuit & code at once 😄
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=800&lines=I+am+Abhiram+Suresh;A+Multidisciplinary+Engineer;IoT+Specialist+%7C+Web+Developer+%7C+AI+Engineer" alt="Typing SVG" />
+</h1>
+
+ I’m currently working on ECG & IR drone-based detection<br>🌱 I’m learning TensorFlow, LabVIEW integration<br>💬 Ask me about Arduino, Python, or Image Processing<br>📫 How to reach me: [your email or LinkedIn]<br>⚡ Fun fact: I can debug your circuit & code at once 😄
 
 
 ## 🌐 Socials:
