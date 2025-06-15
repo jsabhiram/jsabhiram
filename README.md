@@ -168,7 +168,7 @@ fun_facts:
 - **OS:** Windows and Linux Combined Workstation| WSL/Virtual Box
 - **Editor:** VS Code + IntelliJ
 - **Theme:** Dark Mode-Space
-- **Terminal:** Regualr
+- **Terminal:** Regular
 
 </td>
 </tr>
