@@ -34,7 +34,7 @@
 
 ### 🚀 **Who Am I?**
 
-I'm a **passionate Full-Stack Developer** and **UI/UX Designer** who loves creating pixel-perfect, performant web applications. I thrive at the intersection of **design and development**, building digital experiences that users love.
+I'm a **passionate AI/ML Specialist and Full-Stack Developer** and **UI/UX Designer** who loves creating pixel-perfect, performant web applications. I thrive at the intersection of **design and development**, building digital experiences that users love.
 
 ### 🎯 **Current Mission**
 I’m currently working on ECG & IR drone-based detection<br>
@@ -110,7 +110,7 @@ I’m currently working on ECG & IR drone-based detection<br>
 <td width="50%">
 
 ### 🤖 **AI Chat Assistant**
-[![AI Chat](https://github.com/jsabhiram/Emma-js---Discord-BOT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06d6a0&text_color=e2e8f0)](https://github.com/jsabhiram//Emma-js---Discord-BOT)
+[![AI Chat](&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06d6a0&text_color=e2e8f0)](https://github.com/jsabhiram//Emma-js---Discord-BOT)
 
 **Tech Stack:** `React` `Python` `OpenAI` `FastAPI`
 - 🧠 Natural Language Processing
