@@ -203,19 +203,12 @@ fun_facts:
 <a href="mailto:jsabhiramsuresh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/jsabhiram/">
+<a href="[https://www.linkedin.com/in/jsabhiram/](https://github.com/jsabhiram)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/aswinss18">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-</a>
-<a href="https://dev.to/aswinss18">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/>
-</a>
+
 <br/><br/>
 
-### 🎯 **Quick Stats**
-![](https://hit.yhype.me/github/profile?user_id=jsabhiram)
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1" alt="Spotify Now Playing" width="400" />
 
