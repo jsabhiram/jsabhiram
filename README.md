@@ -142,18 +142,14 @@ https://github.com/jsabhiram//Emma-js---Discord-BOT
 
 <br/>
 ### 🎮 **When I'm Not Coding**
-- 🎵 Creating lo-fi beats for coding sessions
+- 🎵 Creating slowed songs for coding sessions
 - 📚 Reading sci-fi novels and tech blogs
 - 🏃‍♂️ Running and staying fit
-- 🎨 Digital art and UI/UX experiments
+- 🎨 IOT prototyping and UI/UX experiments
 - 🌱 Growing my indoor plant collection
-- ☕ Perfecting the art of coffee brewing
-
+- ☕ Trying Cooking treats referring youtube
 ### 🏆 **Achievements Unlocked**
-- 🥇 Hackathon Winner (2024)
-- 🌟 10K+ Combined GitHub Stars
-- 💡 Featured on Dev.to's Top Posts
-- 🚀 Built and deployed 50+ projects
+- 🥇 SCTIMST CERTIFIED for contributing towards their projects.
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -165,8 +161,6 @@ https://github.com/jsabhiram//Emma-js---Discord-BOT
 fun_facts:
   - "I debug better with music 🎵"
   - "I dream in component trees 🌳"
-  - "Dark mode is life 🌙"
-  - "I can center a div... sometimes 😅"
   - "Semicolons are optional, right? 🤔"
 ```
 
