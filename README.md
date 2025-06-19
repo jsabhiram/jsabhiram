@@ -1,4 +1,211 @@
-<script>
-<!-- code by https://www.html-code-generator.com -->
-document.write(unescape('%0A%3Cdiv%20align%3D%22center%22%3E%0A%20%20%3Cimg%20src%3D%22banner.png%22%20width%3D%22100%25%22%20/%3E%0A%3C/div%3E%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%20%20%3Ca%20href%3D%22https%3A//github.com/jsabhiram%22%3E%0A%20%20%20%20%3Cimg%20src%3D%22https%3A//komarev.com/ghpvc/%3Fusername%3Djsabhiram%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dfor-the-badge%22%20alt%3D%22Profile%20Views%22%20/%3E%0A%20%20%3C/a%3E%0A%20%20%3Ca%20href%3D%22https%3A//www.linkedin.com/in/jsabhiram/%22%3E%0A%20%20%20%20%3Cimg%20src%3D%22https%3A//img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26labelColor%3D0077B5%22%20alt%3D%22LinkedIn%22/%3E%0A%20%20%3C/a%3E%0A%20%20%3Ca%20href%3D%22mailto%3Ajsabhiramsuresh@gmail.com%22%3E%0A%20%20%20%20%3Cimg%20src%3D%22https%3A//img.shields.io/badge/Email-Contact-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3DEA4335%22%20alt%3D%22Email%22%20/%3E%0A%20%20%3C/a%3E%0A%20%20%3Ca%20href%3D%22https%3A//github.com/jsabhiram%3Ftab%3Dfollowers%22%3E%0A%20%20%20%20%3Cimg%20src%3D%22https%3A//img.shields.io/github/followers/jsabhiram%3Flabel%3DFollowers%26style%3Dfor-the-badge%26color%3D4CAF50%26labelColor%3D4CAF50%26logo%3Dgithub%22%20alt%3D%22GitHub%20Followers%22%20/%3E%0A%20%20%3C/a%3E%0A%3C/div%3E%0A%0A%3Cbr/%3E%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%20%20%3Cimg%20src%3D%22https%3A//readme-typing-svg.herokuapp.com%3Ffont%3DJetBrains+Mono%26weight%3D600%26size%3D24%26duration%3D3000%26pause%3D800%26color%3D6366F1%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26height%3D60%26lines%3D%uD83D%uDCBB+Crafting+Digital+Experiences%3B%uD83D%uDE80+Building+Scalable+Applications%3B%uD83C%uDFA8+Designing+Beautiful+Interfaces%3B%u26A1+Optimizing+Performance%3B%uD83D%uDD25+Ai+Engineer%3B%uD83C%uDF1F+Open+Source+Contributor%3B%uD83E%uDDE0+AI+%2526+Machine+Learning+Enthusiast%22%20alt%3D%22Typing%20Animation%22%20/%3E%0A%3C/div%3E%0A%0A%3Cbr/%3E%0A%0A%23%23%20%3Cimg%20src%3D%22https%3A//media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif%22%20width%3D%2235%22%3E%20About%20Me%0A%0A%3Ctable%3E%0A%3Ctr%3E%0A%3Ctd%20width%3D%2255%25%22%20valign%3D%22top%22%3E%0A%0A%23%23%23%20%uD83D%uDE80%20**Who%20Am%20I%3F**%0A%0AI%27m%20a%20**passionate%20AI/ML%20Specialist%20and%20Full-Stack%20Developer**%20and%20**UI/UX%20Designer**%20who%20loves%20creating%20pixel-perfect%2C%20performant%20web%20applications.%20I%20thrive%20at%20the%20intersection%20of%20**design%20and%20development**%2C%20building%20digital%20experiences%20that%20users%20love.%0A%0A%23%23%23%20%uD83C%uDFAF%20**Current%20Mission**%0AI%u2019m%20currently%20working%20on%20ECG%20%26%20IR%20drone-based%20detection%3Cbr%3E%0A%uD83C%uDF31%20I%u2019m%20learning%20TensorFlow%2C%20LabVIEW%20integration%3Cbr%3E%0A%uD83D%uDCAC%20Ask%20me%20about%20Arduino%2C%20Python%2C%20or%20Image%20Processing%3Cbr%3E%0A%uD83D%uDCEB%20How%20to%20reach%20me%3A%20%5Byour%20email%20or%20LinkedIn%5D%3Cbr%3E%0A%u26A1%20Fun%20fact%3A%20I%20can%20debug%20your%20circuit%20%26%20code%20at%20once%20%uD83D%uDE04%0A%0A%0A%23%23%23%20%uD83C%uDFA8%20**Design%20Philosophy**%0A%3E%20*%22Reducing%20the%20complexity%20reduces%20bugs%22*%0A%0A%3C/td%3E%0A%3Ctd%20width%3D%2245%25%22%20align%3D%22center%22%20valign%3D%22top%22%3E%0A%0A%3Cimg%20src%3D%22https%3A//media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif%22%20width%3D%22400%22%20alt%3D%22Coding%20Animation%22%20/%3E%0A%0A%3Cimg%20src%3D%22https%3A//github-readme-activity-graph.vercel.app/graph%3Fusername%3Djsabhiram%26theme%3Dreact-dark%26bg_color%3D1a1b27%26color%3D6366f1%26line%3D06d6a0%26point%3Df72585%26area%3Dtrue%26hide_border%3Dtrue%22%20width%3D%22400%22/%3E%0A%0A%3C/td%3E%0A%3C/tr%3E%0A%3C/table%3E%0A%0A%3Cbr/%3E%0A%0A%23%23%20%3Cimg%20src%3D%22https%3A//media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif%22%20width%3D%2240%22%3E%20Tech%20Arsenal%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%0A%23%23%23%20%uD83C%uDF10%20**Frontend%20Mastery**%0A%3Cp%3E%0A%20%20%3Cimg%20src%3D%22https%3A//skillicons.dev/icons%3Fi%3Dreact%2Ctypescript%2Cjavascript%22%20/%3E%0A%20%20%3Cimg%20src%3D%22https%3A//skillicons.dev/icons%3Fi%3Dcss%2Chtml%2Cbootstrap%22%20/%3E%0A%3C/p%3E%0A%0A%23%23%23%20%u2699%uFE0F%20**Backend%20%26%20Database**%0A%3Cp%3E%0A%20%20%3Cimg%20src%3D%22https%3A//skillicons.dev/icons%3Fi%3Dnodejs%2Cexpress%2Cpython%2Cfastapi%22%20/%3E%0A%20%20%3Cimg%20src%3D%22https%3A//skillicons.dev/icons%3Fi%3Dmongodb%2Cfirebase%2Csupabase%2Csql%22%20/%3E%0A%3C/p%3E%0A%0A%23%23%23%20%uD83D%uDEE0%uFE0F%20**Tools%20%26%20DevOps**%0A%3Cp%3E%0A%20%20%3Cimg%20src%3D%22https%3A//skillicons.dev/icons%3Fi%3Dgit%2Cgithub%2Cdocker%22%20/%3E%0A%20%20%3Cimg%20src%3D%22https%3A//skillicons.dev/icons%3Fi%3Dvscode%2Cpostman%2Cjest%2Cwebpack%2Cvite%2C%22%20/%3E%0A%3C/p%3E%0A%0A%23%23%23%20%uD83C%uDFA8%20**Design%20%26%20Animation**%0A%3Cp%3E%0A%20%20%3Cimg%20src%3D%22https%3A//skillicons.dev/icons%3Fi%3Dfigma%2Ccanva%22%20/%3E%0A%3C/p%3E%0A%0A%3C/div%3E%0A%0A%3Cbr/%3E%0A%0A%23%23%20%3Cimg%20src%3D%22https%3A//media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif%22%20width%3D%2235%22%3E%20Developer%20Stats%0A%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%20%20%3Cimg%20height%3D%22180em%22%20src%3D%22https%3A//github-readme-stats.vercel.app/api%3Fusername%3Djsabhiram%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D6366f1%26icon_color%3D06d6a0%26text_color%3De2e8f0%26ring_color%3D6366f1%22%20/%3E%0A%20%20%3Cimg%20height%3D%22180em%22%20src%3D%22https%3A//github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djsabhiram%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D6366f1%26text_color%3De2e8f0%26langs_count%3D8%22%20/%3E%0A%3C/div%3E%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%20%20%3Cimg%20width%3D%2290%25%22%20src%3D%22https%3A//github-readme-streak-stats.herokuapp.com/%3Fuser%3Djsabhiram%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117%26stroke%3D6366f1%26fire%3Df72585%26currStreakNum%3De2e8f0%26sideNums%3D06d6a0%26currStreakLabel%3D6366f1%26sideLabels%3D6366f1%26dates%3D94a3b8%22%20alt%3D%22GitHub%20Streak%22%20/%3E%0A%3C/div%3E%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%20%20%3Cimg%20src%3D%22https%3A//github-profile-trophy.vercel.app/%3Fusername%3Djsabhiram%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26row%3D1%26column%3D7%22%20width%3D%2290%25%22%20alt%3D%22Trophy%20Stats%22/%3E%0A%3C/div%3E%0A%0A%3Cbr/%3E%0A%3Ctd%20width%3D%2250%25%22%3E%0A%0A%23%23%23%20%uD83E%uDD16%20**AI%20Chat%20Assistant**%0Ahttps%3A//github.com/jsabhiram//Emma-js---Discord-BOT%0A%0A**Tech%20Stack%3A**%20%60React%60%20%60Python%60%20%60OpenAI%60%20%60FastAPI%60%0A-%20%uD83E%uDDE0Gen%20AI%0A-%20%uD83D%uDCAC%20Real-time%20Chat%0A-%20%uD83C%uDFAF%20Context%20Awareness%0A%0A%3C/td%3E%0A%3C/tr%3E%0A%3C/table%3E%0A%3C/div%3E%0A%0A%3Cbr/%3E%0A%0A%23%23%20%3Cimg%20src%3D%22https%3A//media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif%22%20width%3D%2235%22%3E%20Current%20Focus%20%26%20Learning%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%3Ctable%3E%0A%3Ctr%3E%0A%3Ctd%20width%3D%2250%25%22%20valign%3D%22top%22%3E%0A%0A%3C/td%3E%0A%3Ctd%20width%3D%2250%25%22%20align%3D%22center%22%3E%0A%0A%3Cimg%20src%3D%22https%3A//media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif%22%20width%3D%22300%22%20alt%3D%22Development%20GIF%22%20/%3E%0A%3C/td%3E%0A%3C/tr%3E%0A%3C/table%3E%0A%3C/div%3E%0A%0A%3Cbr/%3E%0A%23%23%23%20%uD83C%uDFAE%20**When%20I%27m%20Not%20Coding**%0A-%20%uD83C%uDFB5%20Creating%20slowed%20songs%20for%20coding%20sessions%0A-%20%uD83D%uDCDA%20Reading%20sci-fi%20novels%20and%20tech%20blogs%0A-%20%uD83C%uDFC3%u200D%u2642%uFE0F%20Running%20and%20staying%20fit%0A-%20%uD83C%uDFA8%20IOT%20prototyping%20and%20UI/UX%20experiments%0A-%20%uD83C%uDF31%20Growing%20my%20indoor%20plant%20collection%0A-%20%u2615%20Trying%20Cooking%20treats%20referring%20youtube%0A%23%23%23%20%uD83C%uDFC6%20**Achievements%20Unlocked**%0A-%20%uD83E%uDD47%20SCTIMST%20CERTIFIED%20for%20contributing%20towards%20their%20projects.%0A%0A%3C/td%3E%0A%3Ctd%20width%3D%2250%25%22%20align%3D%22center%22%20valign%3D%22top%22%3E%0A%0A%23%23%23%20%uD83C%uDFAF%20**Fun%20Facts%20About%20Me**%0A%3Cimg%20src%3D%22https%3A//media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif%22%20width%3D%22200%22%20/%3E%0A%0A%60%60%60yaml%0Afun_facts%3A%0A%20%20-%20%22I%20debug%20better%20with%20music%20%uD83C%uDFB5%22%0A%20%20-%20%22I%20dream%20in%20component%20trees%20%uD83C%uDF33%22%0A%20%20-%20%22Semicolons%20are%20optional%2C%20right%3F%20%uD83E%uDD14%22%0A%60%60%60%0A%0A%23%23%23%20%uD83C%uDFA8%20**My%20Coding%20Setup**%0A-%20**OS%3A**%20Windows%20and%20Linux%20Combined%20Workstation%7C%20WSL/Virtual%20Box%0A-%20**Editor%3A**%20VS%20Code%20+%20IntelliJ%0A-%20**Theme%3A**%20Dark%20Mode-Space%0A-%20**Terminal%3A**%20Regular%0A%0A%3C/td%3E%0A%3C/tr%3E%0A%3C/table%3E%0A%3C/div%3E%0A%0A%3Cbr/%3E%0A%0A%23%23%20%3Cimg%20src%3D%22https%3A//media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif%22%20width%3D%2235%22%3E%20Let%27s%20Connect%20%26%20Collaborate%21%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%0A%23%23%23%20%uD83D%uDCAC%20**Always%20Up%20For...**%0A%uD83D%uDE80%20**New%20Projects**%20%u2022%20%uD83E%uDD1D%20**Collaborations**%20%u2022%20%uD83D%uDCA1%20**Innovative%20Ideas**%20%u2022%20%uD83D%uDCDA%20**Knowledge%20Sharing**%0A%0A%3Cbr/%3E%0A%0A%3Ca%20href%3D%22mailto%3Ajsabhiramsuresh@gmail.com%22%3E%0A%20%20%3Cimg%20src%3D%22https%3A//img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3DD14836%22%20alt%3D%22Gmail%22/%3E%0A%3C/a%3E%0A%3Ca%20href%3D%22%5Bhttps%3A//www.linkedin.com/jsabhiram/%5D%28https%3A//github.com/jsabhiram%29%22%3E%0A%20%20%3Cimg%20src%3D%22https%3A//img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26labelColor%3D0077B5%22%20alt%3D%22LinkedIn%22/%3E%0A%3C/a%3E%0A%0A%3Cbr/%3E%3Cbr/%3E%0A%0A%3C/div%3E%0A%0A%3Cbr/%3E%0A%0A---%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%20%20%3Cimg%20src%3D%22https%3A//capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D6%2C11%2C12%26height%3D200%26section%3Dfooter%26text%3DThanks%2520for%2520visiting%21%26fontSize%3D50%26fontColor%3Dfff%26animation%3DfadeIn%26fontAlignY%3D70%26desc%3DLet%27s%2520build%2520something%2520amazing%2520together%2520%uD83D%uDE80%26descSize%3D16%26descAlignY%3D88%22%20width%3D%22100%25%22%20/%3E%0A%3C/div%3E%0A%0A%3Cdiv%20align%3D%22center%22%3E%0A%20%20%3Cimg%20src%3D%22https%3A//komarev.com/ghpvc/%3Fusername%3Daswinss18%26style%3Dfor-the-badge%26color%3D6366f1%26label%3DProfile+Views%22%20alt%3D%22Profile%20Views%22%20/%3E%0A%3C/div%3E%0A'));
-</script>
+
+<div align="center">
+  <img src="banner.png" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/jsabhiram">
+    <img src="https://komarev.com/ghpvc/?username=jsabhiram&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/jsabhiram/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jsabhiramsuresh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://github.com/jsabhiram?tab=followers">
+    <img src="https://img.shields.io/github/followers/jsabhiram?label=Followers&style=for-the-badge&color=4CAF50&labelColor=4CAF50&logo=github" alt="GitHub Followers" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=💻+Crafting+Digital+Experiences;🚀+Building+Scalable+Applications;🎨+Designing+Beautiful+Interfaces;⚡+Optimizing+Performance;🔥+Ai+Engineer;🌟+Open+Source+Contributor;🧠+AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🚀 **Who Am I?**
+
+I'm a **passionate AI/ML Specialist and Full-Stack Developer** and **UI/UX Designer** who loves creating pixel-perfect, performant web applications. I thrive at the intersection of **design and development**, building digital experiences that users love.
+
+### 🎯 **Current Mission**
+I’m currently working on ECG & IR drone-based detection<br>
+🌱 I’m learning TensorFlow, LabVIEW integration<br>
+💬 Ask me about Arduino, Python, or Image Processing<br>
+📫 How to reach me: [your email or LinkedIn]<br>
+⚡ Fun fact: I can debug your circuit & code at once 😄
+
+
+### 🎨 **Design Philosophy**
+> *"Reducing the complexity reduces bugs"*
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jsabhiram&theme=react-dark&bg_color=1a1b27&color=6366f1&line=06d6a0&point=f72585&area=true&hide_border=true" width="400"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Arsenal
+
+<div align="center">
+
+### 🌐 **Frontend Mastery**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=css,html,bootstrap" />
+</p>
+
+### ⚙️ **Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sql" />
+</p>
+
+### 🛠️ **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,jest,webpack,vite," />
+</p>
+
+### 🎨 **Design & Animation**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Developer Stats
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsabhiram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06d6a0&text_color=e2e8f0&ring_color=6366f1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsabhiram&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jsabhiram&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&fire=f72585&currStreakNum=e2e8f0&sideNums=06d6a0&currStreakLabel=6366f1&sideLabels=6366f1&dates=94a3b8" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jsabhiram&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="90%" alt="Trophy Stats"/>
+</div>
+
+<br/>
+<td width="50%">
+
+### 🤖 **AI Chat Assistant**
+https://github.com/jsabhiram//Emma-js---Discord-BOT
+
+**Tech Stack:** `React` `Python` `OpenAI` `FastAPI`
+- 🧠Gen AI
+- 💬 Real-time Chat
+- 🎯 Context Awareness
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> Current Focus & Learning
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300" alt="Development GIF" />
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+### 🎮 **When I'm Not Coding**
+- 🎵 Creating slowed songs for coding sessions
+- 📚 Reading sci-fi novels and tech blogs
+- 🏃‍♂️ Running and staying fit
+- 🎨 IOT prototyping and UI/UX experiments
+- 🌱 Growing my indoor plant collection
+- ☕ Trying Cooking treats referring youtube
+### 🏆 **Achievements Unlocked**
+- 🥇 SCTIMST CERTIFIED for contributing towards their projects.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🎯 **Fun Facts About Me**
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="200" />
+
+```yaml
+fun_facts:
+  - "I debug better with music 🎵"
+  - "I dream in component trees 🌳"
+  - "Semicolons are optional, right? 🤔"
+```
+
+### 🎨 **My Coding Setup**
+- **OS:** Windows and Linux Combined Workstation| WSL/Virtual Box
+- **Editor:** VS Code + IntelliJ
+- **Theme:** Dark Mode-Space
+- **Terminal:** Regular
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💬 **Always Up For...**
+🚀 **New Projects** • 🤝 **Collaborations** • 💡 **Innovative Ideas** • 📚 **Knowledge Sharing**
+
+<br/>
+
+<a href="mailto:jsabhiramsuresh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+</a>
+<a href="[https://www.linkedin.com/jsabhiram/](https://github.com/jsabhiram)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descSize=16&descAlignY=88" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aswinss18&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
+</div>
